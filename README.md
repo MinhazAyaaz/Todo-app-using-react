@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/MinhazAyaaz/Todo-app-using-react/master/src/Demo.png))
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
