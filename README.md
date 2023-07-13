@@ -1,4 +1,5 @@
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/MinhazAyaaz/Todo-app-using-react/blob/master/src/Demo.png)?raw=true)
+![alt text](https://github.com/MinhazAyaaz/Todo-app-using-react/blob/master/src/Demo.png?raw=true)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
